@@ -4,6 +4,7 @@ import App from './App.vue'
 
 import Home from './views/Home.vue';
 import About from './views/About.vue';
+import 'bootstrap/dist/css/bootstrap.css';
 
 
 const routes = [
